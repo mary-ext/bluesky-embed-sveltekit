@@ -1,4 +1,4 @@
-# Static Bluesky post embedding in Astro
+# Static Bluesky post embedding in SvelteKit
 
 [Live demo](https://bluesky-embed-sveltekit.pages.dev/-/did:plc:ragtjsm2j2vknwkz3zp4oxrd/3kj2umze7zj2n)
 

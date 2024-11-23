@@ -1,6 +1,4 @@
 <script lang="ts">
-	import '$lib/styles/bluesky.css';
-
 	import { renderPost, type PostData } from 'bluesky-embed/post/core';
 
 	interface Props {

@@ -1,0 +1,28 @@
+{
+	"name": "bluesky-post-embed-sveltekit",
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
+		"fmt": "prettier --cache --write ."
+	},
+	"dependencies": {
+		"bluesky-embed": "0.2.0-alpha.1"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-cloudflare": "^4.7.4",
+		"@sveltejs/kit": "^2.8.2",
+		"@sveltejs/vite-plugin-svelte": "^4.0.1",
+		"prettier": "^3.3.3",
+		"prettier-plugin-css-order": "^2.1.2",
+		"prettier-plugin-svelte": "^3.3.2",
+		"svelte": "^5.2.7",
+		"svelte-check": "^4.1.0",
+		"typescript": "^5.7.2",
+		"vite": "^5.4.11"
+	}
+}

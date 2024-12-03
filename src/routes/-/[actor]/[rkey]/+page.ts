@@ -1,4 +1,4 @@
-import { fetchPost } from 'bluesky-embed/post/core';
+import { fetchPost } from 'bluesky-post-embed/core';
 
 import type { PageLoad } from './$types';
 

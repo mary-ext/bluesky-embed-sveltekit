@@ -11,7 +11,7 @@
 		"fmt": "prettier --cache --write ."
 	},
 	"dependencies": {
-		"bluesky-embed": "0.2.0-alpha.2"
+		"bluesky-post-embed": "0.2.0-alpha.2"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-cloudflare": "^4.8.0",

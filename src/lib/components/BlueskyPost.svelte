@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { renderPost, type PostData } from 'bluesky-embed/post/core';
+	import { renderPost, type PostData } from 'bluesky-post-embed/core';
 
 	interface Props {
 		data: PostData;
